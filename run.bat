@@ -1,0 +1,1 @@
+behave C:\Users\Dell\PycharmProjects\behavesaucedemo\feature\saucedemo.feature  --format allure_behave.formatter:AllureFormatter -o C:\Users\Dell\PycharmProjects\behavesaucedemo\allure_reports
